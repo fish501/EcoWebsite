@@ -6,6 +6,12 @@
   height: 100vh;
   z-index: 0;
 }
+.escalatiorImage{
+  background: url(Escalator.jpg) no-repeat center center fixed;
+  width: 100%;
+  height: 100vh;
+  z-index: 0;
+}
 /*drop down tool bar*/
 ul {
   list-style-type: none;
